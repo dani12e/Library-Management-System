@@ -1,0 +1,8 @@
+vic,80,A
+economics,55,C
+ayo,80,A
+okagbare,65,B
+kess,80,A
+prof,65,B
+olodu,80,A
+jones,80,A
